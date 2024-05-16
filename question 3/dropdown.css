@@ -1,0 +1,8 @@
+/* Dropdown Content (Hidden by Default) */
+#dropdownAvatar {
+  display: none;
+}
+
+#dropdownAvatar.show {
+  display: block;
+}
